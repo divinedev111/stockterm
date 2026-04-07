@@ -1,3 +1,7 @@
+[![CI](https://github.com/divinedev111/stockterm/actions/workflows/ci.yml/badge.svg)](https://github.com/divinedev111/stockterm/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/divinedev111/stockterm)](https://goreportcard.com/report/github.com/divinedev111/stockterm)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 # stockterm
 
 Bloomberg terminal in your terminal. Real-time stock and crypto quotes, ASCII charts, and watchlists — powered by Yahoo Finance.
